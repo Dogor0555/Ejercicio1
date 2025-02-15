@@ -14,8 +14,3 @@ Console.WriteLine("Valor de char: " + caracter);
 Console.WriteLine("Valor de string: " + texto);
 Console.WriteLine("Valor de bool: " + esVerdadero);
 
-Console.WriteLine("El Ing Daro es muy feo.");
-
-
-
-Console.WriteLine("El Ing Daro es muy Bonito pero el ejercicio me pide que diga que es muy feo :(((((.");
